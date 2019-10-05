@@ -1,0 +1,32 @@
+*{transition: all .1s ease-in;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background: #3399cc;
+    border: #2b81ac solid 17px;
+    color: white;     
+    padding-left: 25%;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    height: 100px;
+    margin-left: -4px;
+    border: #fff solid 5px;
+    text-align: center;
+    line-height: 45px;
+}
+ul{
+     max-width: 687px;
+}
+p{
+    margin-top: 20px;
+    margin-bottom: 5%;
+}
+h1{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
